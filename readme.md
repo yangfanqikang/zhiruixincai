@@ -1,0 +1,1 @@
+1、尝试在HBuilderX里面用git；
